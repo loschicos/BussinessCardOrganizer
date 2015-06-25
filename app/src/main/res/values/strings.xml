@@ -1,0 +1,11 @@
+<resources>
+    <!--Application-->
+    <string name="app_name">Cartões de Visita</string>
+
+    <!--Menus-->
+    <string name="main_action_settings">Configurações</string>
+    <string name="main_action_about">Sobre</string>
+
+    <!--Activities-->
+    <string name="title_activity_about">Sobre</string>
+</resources>
