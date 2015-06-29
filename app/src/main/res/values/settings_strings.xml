@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_category_cloudServices_key">cloud_services</string>
+    <string name="settings_cloudServices_enabled_key">cloud_services_enabled</string>
+    <string name="settings_cloudServices_dropbox_key">cloud_service_dropbox</string>
+
+</resources>

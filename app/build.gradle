@@ -25,4 +25,6 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:22.2.0'
     compile 'com.android.support:cardview-v7:22.2.0'
     compile 'com.afollestad:material-dialogs:0.7.6.0'
+    compile 'net.xpece.android:support-preference:0.4.2'
+    compile 'com.android.support:support-v4:22.2.0'
 }

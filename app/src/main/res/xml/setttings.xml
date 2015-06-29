@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/settings_category_cloudServices_title"
+        android:key="@string/settings_category_cloudServices_key">
+        <CheckBoxPreference
+            android:key="@string/settings_cloudServices_enabled_key"
+            android:summary="@string/settings_cloudServices_enabled_summary"
+            android:title="@string/settings_cloudServices_enabled_title"
+            android:defaultValue="false" />
+        <Preference
+            android:key="@string/settings_cloudServices_dropbox_key"
+            android:dependency="@string/settings_cloudServices_enabled_key"
+            android:summary="@string/settings_cloudServices_dropbox_summary"
+            android:title="@string/settings_cloudServices_dropbox_title"
+            android:icon="@drawable/dropbox_logo" />
+    </PreferenceCategory>
+</PreferenceScreen>

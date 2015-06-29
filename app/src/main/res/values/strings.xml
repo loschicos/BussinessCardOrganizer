@@ -8,4 +8,13 @@
 
     <!--Activities-->
     <string name="title_activity_about">Sobre</string>
+    <string name="title_activity_settings">Configurações</string>
+
+    <!--Settings-->
+    <string name="settings_category_cloudServices_title">Serviços de Armazenamento</string>
+    <string name="settings_cloudServices_enabled_title">Sincronização em núvem</string>
+    <string name="settings_cloudServices_enabled_summary">Habilita a sincronização dos cartões de visita na núvem</string>
+
+    <string name="settings_cloudServices_dropbox_title">Dropbox</string>
+    <string name="settings_cloudServices_dropbox_summary">Configura o serviço do dropbox para sincronização</string>
 </resources>
